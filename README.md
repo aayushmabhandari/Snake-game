@@ -1,2 +1,2 @@
 # Snake-game
-This is a game like slither io which written in C#
+This is a simple snake eats food and gets bigger game written in C#
